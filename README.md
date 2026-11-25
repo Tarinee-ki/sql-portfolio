@@ -6,10 +6,10 @@ A collection of four PostgreSQL projects completed as part of my database course
 
 | # | Project | Description | Key SQL Skills |
 |---|---|---|---|
-| 01 | [Flight Data Analytics](./01_Flight_Analytics/) | Analysis of German flight data from 2024, including routes, passenger numbers, seat capacity and flight connections. | JOINs, aggregations, CTEs, UNION ALL |
-| 02 | [UN Country & Energy Data](./02_UN_Country_Energy/) | Analysis of global population and energy statistics, including population rankings, missing data detection and data consistency checks. | Window Functions, RANK, DENSE_RANK, CROSS JOIN, NOT EXISTS, CTEs |
-| 03 | [Olympic Games Analysis](./03_Olympic_Analysis/) | Analysis of Olympic medal statistics, country performance and disciplines, alongside data quality and referential integrity checks. | Aggregations, DISTINCT, FILTER, Window Functions, LEFT JOIN |
-| 04 | [Q&A Platform Database Design](./04_QA_Database_Design/) | Design and implementation of a Stack Overflow-style database, including ER modelling, relational schema and automated answer counting. | Database Design, ER Modelling, 3NF, DDL, Constraints, Foreign Keys, PL/pgSQL Triggers |
+| 01 | [Flight Data Analytics](./01-flight-analytics/) | Analysis of German flight data from 2024, including routes, passenger numbers, seat capacity and flight connections. | JOINs, aggregations, CTEs, UNION ALL |
+| 02 | [UN Country & Energy Data](./02_un_country_energy/) | Analysis of global population and energy statistics, including population rankings, missing data detection and data consistency checks. | Window Functions, RANK, DENSE_RANK, CROSS JOIN, NOT EXISTS, CTEs |
+| 03 | [Olympic Games Analysis](./03_olympic_analysis/) | Analysis of Olympic medal statistics, country performance and disciplines, alongside data quality and referential integrity checks. | Aggregations, DISTINCT, FILTER, Window Functions, LEFT JOIN |
+| 04 | [Q&A Platform Database Design](./04_database_design/) | Design and implementation of a Stack Overflow-style database, including ER modelling, relational schema and automated answer counting. | Database Design, ER Modelling, 3NF, DDL, Constraints, Foreign Keys, PL/pgSQL Triggers |
 
 ## Project Highlights
 
