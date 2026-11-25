@@ -71,7 +71,7 @@ compared AS (
         c.calculated_sum,
         w.reported_value,
         ABS(c.calculated_sum - w.reported_value) * 100.0
-            / NULLIF(w.reported_value, 0) AS deviation_percent
+            / NULLIF(ABS(w.reported_value), 0) AS deviation_percent
     FROM country_sums c
     JOIN world w ON w.year = c.year AND w.series = c.series
 )
