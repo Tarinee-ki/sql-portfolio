@@ -81,19 +81,19 @@ SQL-Portfolio/
 ├── README.md
 │
 ├── 01_Flight_Analytics/
-│   └── flight_analysis.sql
+│   └── flight_queries.sql
 │
 ├── 02_UN_Country_Energy/
-│   └── energy_analysis.sql
+│   └── un_energy_queries.sql
 │
 ├── 03_Olympic_Analysis/
-│   └── olympic_analysis.sql
+│   └── olympics_queries.sql
 │
 └── 04_QA_Database_Design/
-    ├── schema.sql
-    ├── demo_data.sql
-    ├── ER_Diagram.png
-    └── Relational_Model.png
+    ├── stackoverflow_schema.sql
+    ├── stackoverflow_demo.sql
+    ├── stackoverflow_erm.png
+    └── stackoverflow_rm.png
 ```
 
 
