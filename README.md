@@ -96,8 +96,4 @@ SQL-Portfolio/
     └── Relational_Model.png
 ```
 
-## About This Portfolio
-
-These projects were developed as part of my database coursework at HAW Hamburg. They represent my practical application of SQL and relational database concepts to analytical and database design problems.
-
 
